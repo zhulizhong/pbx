@@ -33,6 +33,7 @@ global $arrLangModule;
 $arrLangModule=array(
 "Option" => "选项",
 "Unembedded FreePBX®" => "原始FreePBX",
+"Unembedded IssabelPBX®" => "Unembedded IssabelPBX®",
 "Basic" => "基础",
 "Extensions" => "分机",
 "Feature Codes" => "功能码",
