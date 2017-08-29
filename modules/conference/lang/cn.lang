@@ -23,7 +23,7 @@
 global $arrLangModule;
 $arrLangModule = array(
     "Conference" => "会议",
-    "Past Conferences" => "过去会议",
+    "Past Conferences" => "历史会议",
     "Current Conferences" => "当前会议",
     "Future Conferences" => "将来会议",
     "Conference #" => "会议 #",
