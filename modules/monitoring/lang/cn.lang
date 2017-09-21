@@ -22,6 +22,6 @@
   $Id: es.lang,v 1.7 2007/09/05 00:36:42 alex Exp $ */
 global $arrLangModule;
 $arrLangModule = array(
-    "delete_file_error" => "At least one of files selected cannot be deleted because it no exists",
+    "delete_file_error" => "至少有一个文件不能删除，此文件是被选的文件，可能是不存在的",
 );
 ?>
